@@ -1,136 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,70:0284c7,100:22d3ee&text=Fahmi%20Farid&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20AI%20Workflows&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;height=260&amp;color=0:020617,55:0f172a,100:075985&amp;text=Fahmi%20Farid&amp;fontSize=48&amp;fontColor=f8fafc&amp;fontAlignY=39&amp;desc=DevOps%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20AI%20Tooling&amp;descSize=18&amp;descAlignY=60&amp;animation=fadeIn" alt="Fahmi Farid — DevOps Engineer, Backend Systems, and AI Tooling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=DevOps+Engineer+%7C+Platform+%26+Systems+Builder;API-first+Backends+%7C+Cloud+Infrastructure;Monorepos+%7C+AI+Tooling+%7C+Delivery+Workflows;Building+Practical+Systems+That+Ship" alt="Typing SVG" />
 
-<br/>
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=fhmifarid&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/fhmifarid?style=for-the-badge&color=1d4ed8&labelColor=020617" alt="Followers" />
-<img src="https://img.shields.io/github/stars/fhmifarid?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=06b6d4&labelColor=020617" alt="Stars" />
-
-</div>
-
----
-
-## 👋 About Me
-
-I build practical software systems with a strong focus on **backend architecture**, **delivery workflows**, and **AI-assisted engineering**.
-
-- ⚙️ DevOps-minded engineer focused on reliability and shipping
-- 🏗️ Building API-first platforms and modular backend systems
-- ☁️ Working across cloud infrastructure, CI/CD, and deployment workflows
-- 🤖 Exploring AI agents, context engineering, and developer tooling
-- 📦 Interested in monorepos, internal tools, and production-ready architecture
-
----
-
-## 🎯 What I’m Focused On
-
-```text
-• Platform engineering over hype
-• Backend systems with clear structure
-• Delivery pipelines that reduce friction
-• AI tooling that improves real execution
-• Service and commerce systems built for growth
-````
-
----
-
-## 🔥 Selected Work
-
-### SAWAA Backend
-
-A Go backend for a Sudan-focused visa and travel services platform.
-
-**Highlights:**
-
-* JWT auth with refresh tokens
-* service catalog and order workflow
-* bank transfer receipt approval flow
-* wallet ledger for credits / debits / refunds
-* tracking system, chat support, and audit logging
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=DevOps+Engineer+%26+Backend+Builder;Shipping+Cloud-Native+Systems;Building+Practical+AI+Developer+Tools" alt="DevOps Engineer, backend builder, and AI tooling developer" />
+</a>
 
 <p>
-  <a href="https://github.com/fhmifarid/sawa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhmifarid&repo=sawa&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e2e8f0&icon_color=22d3ee" />
-  </a>
+  <a href="https://github.com/fhmifarid?tab=followers"><img src="https://img.shields.io/github/followers/fhmifarid?style=for-the-badge&amp;logo=github&amp;label=Follow&amp;color=2563eb&amp;labelColor=0f172a" alt="Follow Fahmi Farid on GitHub" /></a>
+  <a href="https://github.com/fhmifarid?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/fhmifarid?affiliations=OWNER%2CCOLLABORATOR&amp;style=for-the-badge&amp;logo=github&amp;label=Stars&amp;color=06b6d4&amp;labelColor=0f172a" alt="GitHub stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=fhmifarid&amp;style=for-the-badge&amp;color=0ea5e9&amp;label=Profile+Views" alt="Profile views" />
 </p>
 
-### AgentAPI
-
-A unified HTTP API to control coding agents like Claude Code, Aider, Gemini, Codex, Cursor CLI, and more.
-
-**Highlights:**
-
-* one HTTP layer for multiple coding agents
-* useful for unified chat interfaces and agent orchestration
-* suitable as a backend for agent-control tooling and MCP-style workflows
-
-<p>
-  <a href="https://github.com/fhmifarid/agentapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fhmifarid&repo=agentapi&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e2e8f0&icon_color=22d3ee" />
-  </a>
-</p>
-
----
-
-## 🧪 Research / Adaptation Tracks
-
-I also work on implementation spikes and adaptation work around:
-
-* commerce platforms and modular storefront systems
-* AI memory / context engineering patterns
-* travel operations platforms and cross-platform clients
-* agent workflows and planning systems
-
-> Some repositories on my profile are forks used for research, adaptation, or implementation experiments.
-
----
-
-## 🧰 Core Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,python,nextjs,nodejs,flutter,docker,kubernetes,postgres,redis,graphql,linux,bash,git,github&perline=8" />
 </div>
 
----
 
-## 📈 GitHub Overview
+I build **reliable backend systems**, **delivery automation**, and **AI-assisted developer tools**. My work sits where product engineering meets infrastructure: clear APIs, repeatable deployments, and practical software that ships.
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fhmifarid&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=22d3ee&text_color=e2e8f0&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhmifarid&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e2e8f0" />
-</div>
+- ⚙️ Building API-first platforms, CI/CD workflows, and containerized environments
+- 🧱 Working with clean architecture, authentication, payments, and workflow-heavy products
+- 🤖 Exploring coding agents, context engineering, and developer automation
+- 🚀 Turning experiments into documented, reusable open-source projects
+- 💬 Open to collaboration through [GitHub Discussions](https://github.com/fhmifarid/fhmifarid/issues/new?title=Collaboration%20idea)
 
----
-
-## 🛠️ Engineering Areas
+## Featured open-source work
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>⚙️ DevOps</h3>
-      <p>CI/CD, containers, deployment automation, Linux workflows, and production-minded infrastructure.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/fhmifarid/iconify-downloader">Iconify Downloader</a></h3>
+      <p>Desktop app and CLI for finding, customizing, organizing, and exporting Iconify icons as SVG, JSON, or ZIP bundles.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Electron</code> <code>Vite</code></p>
+      <a href="https://github.com/fhmifarid/iconify-downloader">Explore the project →</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>🏗️ Backend Systems</h3>
-      <p>API-first services, commerce foundations, modular architecture, and maintainable product backends.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/fhmifarid/sawa">SAWAA Backend</a></h3>
+      <p>Go API for visa and travel services with order workflows, wallet accounting, payment approvals, support chat, and audit logging.</p>
+      <p><code>Go</code> <code>PostgreSQL</code> <code>Docker</code> <code>Clean Architecture</code></p>
+      <a href="https://github.com/fhmifarid/sawa">Explore the project →</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>🤖 AI Tooling</h3>
-      <p>Agent workflows, planning systems, context engineering, and tools that improve engineering execution.</p>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/fhmifarid/agentapi">AgentAPI Lab</a></h3>
+      <p>Research and adaptation around a unified HTTP control layer for coding agents such as Codex, Claude Code, Gemini, and Aider.</p>
+      <p><code>Go</code> <code>HTTP API</code> <code>AI Agents</code> <code>Developer Tooling</code></p>
+      <a href="https://github.com/fhmifarid/agentapi">Explore the research fork →</a>
     </td>
   </tr>
 </table>
 
----
+## Technologies I use
 
-## 🌍 Current Direction
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,nextjs,nodejs,flutter,docker,kubernetes,postgres,redis,graphql,linux,bash,git,githubactions&amp;perline=8" alt="Go, TypeScript, JavaScript, Python, Next.js, Node.js, Flutter, Docker, Kubernetes, PostgreSQL, Redis, GraphQL, Linux, Bash, Git, and GitHub Actions" />
+</div>
 
-* building service and commerce platforms
-* improving backend architecture and delivery pipelines
-* experimenting with AI tooling for engineering workflows
-* turning research into practical product systems
+## GitHub activity
 
+<div align="center">
+  <a href="https://github.com/fhmifarid">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhmifarid&amp;theme=github_dark&amp;animation=draw" width="100%" alt="Fahmi Farid's GitHub contribution activity" />
+  </a>
+  <br />
+  <a href="https://github.com/fhmifarid?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fhmifarid&amp;theme=github_dark" width="49%" alt="Fahmi Farid's GitHub statistics" />
+  </a>
+  <a href="https://github.com/fhmifarid?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fhmifarid&amp;theme=github_dark" width="49%" alt="Most-used languages by commit" />
+  </a>
+  <br />
+  <sub>Live activity generated from the public GitHub profile.</sub>
+</div>
+
+## Let’s build something useful
+
+I’m open to thoughtful collaboration on **developer tools**, **AI infrastructure**, and **backend/platform systems**.
+
+<p align="center">
+  <a href="https://github.com/fhmifarid/fhmifarid/issues/new?title=Collaboration%20idea&amp;body=Hi%20Fahmi%2C%20here%27s%20what%20I%27d%20like%20to%20build..."><img src="https://img.shields.io/badge/Start_a_Conversation-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=22d3ee" alt="Start a conversation" /></a>
+  <a href="https://github.com/fhmifarid?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-075985?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories" /></a>
+</p>
+
+<div align="center">
+  <sub>If my work helps you, follow along or star a project — it helps others discover it too.</sub>
+</div>
